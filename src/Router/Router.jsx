@@ -1,6 +1,5 @@
-import {
-    createBrowserRouter,
-} from "react-router-dom";
+// Router Jsx
+import { createBrowserRouter,} from "react-router-dom";
 import Root from "../layout/Root";
 import Home from "../Pages/Home";
 import Error from "../Pages/Error";

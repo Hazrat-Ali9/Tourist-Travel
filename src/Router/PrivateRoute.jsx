@@ -1,3 +1,4 @@
+// Private Route 
 import { useContext } from "react";
 import { AuthContext } from "../AuthProvider/AuthProvider";
 import { Navigate, useLocation } from "react-router-dom";

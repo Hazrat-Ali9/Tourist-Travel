@@ -1,4 +1,4 @@
-
+// Root js
 import { Outlet } from 'react-router-dom';
 
 const Root = () => {

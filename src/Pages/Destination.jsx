@@ -1,7 +1,7 @@
 //Destaination jsx
 import { useRef, useState } from "react";
 import Navbar from "../Components/Navbar";
-
+// Destaination 
 const Destination = () => {
     const [name, setName] = useState("");
     const nameRef = useRef("");

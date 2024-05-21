@@ -1,4 +1,4 @@
-// Home js
+// Home navbar
 import Navbar from "../Components/Navbar";
 
 const Home = () => {

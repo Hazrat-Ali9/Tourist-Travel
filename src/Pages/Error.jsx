@@ -1,4 +1,4 @@
-// Error
+// Error text
 const Error = () => {
     return (
         <div>

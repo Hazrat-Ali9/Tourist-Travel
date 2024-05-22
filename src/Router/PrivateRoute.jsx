@@ -17,7 +17,7 @@ const PrivateRoute = ({ children }) => {
 
 
     }
-
+// Navigate [path]
     if (user) {
         return children;
     }
